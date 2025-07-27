@@ -1,0 +1,16 @@
+mongo DB ni terminal orqali start berish "sudo systemctl start mongod"
+qayta ishlatish uchun "sudo systemctl daemon-reload"
+password=nQmAJ9J9fzArxyRB
+username=muhammadali0210
+
+imagekit url = https://ik.imagekit.io/njtthrpue/
+
+https://ik.imagekit.io/njtthrpue/rest/of/the/path/image.jpg?tr=w-300,h-300
+
+
+
+const imagekit = new ImageKit({
+  publicKey: "public_xyn9SKy/R0uODN6qsmni/yvenv4=",
+  privateKey: "private_1M+YLEWx7XOcLnDCc47dupEHwTQ=",
+  urlEndpoint: "https://ik.imagekit.io/njtthrpue",
+});

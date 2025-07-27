@@ -1,0 +1,1 @@
+export const userStatus = ['admin', 'student', 'teacher', 'user'];
